@@ -1,0 +1,36 @@
+body {
+  background-color: hsl(212, 66%, 86%);
+}
+.container {
+  width: 200px;
+  background-color: white;
+  margin: 70px auto;
+  font-weight: 500;
+  font-family: sans-serif;
+  padding: 10px 15px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+img {
+  margin-bottom: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+h2 {
+  font-size: 15px;
+  text-align: center;
+  line-height: 1.2;
+}
+.qr-code-description {
+  color: #bbb;
+  font-size: 12px;
+  text-align: center;
+  line-height: 1.2;
+}
